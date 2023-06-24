@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <link href="styles.css" rel="stylesheet"/>
+    
+    <title>Stephen Hillenburg Tribute Page</title>
+  </head>
+<main id="main">
+  <h1 id="title" class="bold">Stephen Hillenburg:</h1>
+  <p>The Creator of Spongebob</p>
+  <div id="img-div">
+    <figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stephen_Hillenburg_by_Carlos_Cazurro.jpg/640px-Stephen_Hillenburg_by_Carlos_Cazurro.jpg" id="image"/>
+    <figcaption id="img-caption">The KING</figcaption>
+    <p id="tribute-info">While Stephen Hillenburg was mostly widely know, for his work as the creator of Spongebob Squarepants, he working in the animation industry for years. Nickelodeon was his home as an animator and his other high profile works include Rocko's Modern Life and The Mighty B! Many people know that he transitioned into animation from a career in marine biology. His career in marine biology led him him create Spongeboy Ahoy! which eventually became Spongebob Squarepants. However, few people know that he was born on an army base in Oklahoma. He tragically passed away in 2018 as a result of ALS, but his impact on animation is eternal. If you would like to learn more about Mr. Hillenburg, his <a href="https://en.wikipedia.org/wiki/Stephen_Hillenburg" target="_blank" id="tribute-link">Wikipedia Page</a> is a good central location to find many other sources about him, his work, and his life. </p>
+  </div>
+</main>
