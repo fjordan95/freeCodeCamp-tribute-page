@@ -1,0 +1,9 @@
+body {background-color: #fcc56d}
+h1 {text-align: center; font-family: andale mono; 
+color: #de5337
+ }
+img {display: block; max-width: 100%}
+figcaption {font-family: andale mono; margin: 10px; text-align: right; color: #de5337; text-decoration: underline;}
+p {font-family:andale mono;
+text-align: center; margin-top: 30px; border: 3px solid#de5337;}
+a:link {color: #ffffff;}
